@@ -1,6 +1,6 @@
 # 🌊Rosh-N-Ko🤖 
 
-**`Digital And Analogue Craftsman(Developer/Data Analyst/Professional Procrastinator)`**
+**`Digital And Analogue Craftsman(Developer/Data Analyst)`**
 
 I'm an independent ,self-Taught coder and data analyst.I understand the beauty that code imparts  to our day to day lives .Seeing the real actionable  impact as well as  the real problem solving skill that it takes to be a great software developer is what got me into coding and Data analysis .My initial coding projects were guided , but I slowly learnt to build up the courage and skill  to tackle real life problems.Currently I'm focusing on telling impactful and insightful stories through Data, that will incite action for all those who have the power to make decsions.
 In my spare time 
