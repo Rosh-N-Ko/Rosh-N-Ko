@@ -19,8 +19,15 @@ I post my progress on GitHub and all I want to give to the world other than usef
 
 <img align="left" alt="My sql" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg)" />
 
-            pandas="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+
+<img align="left" alt="My sql" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="My sql" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+            pandas="" />
             
             pycharm="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
             
