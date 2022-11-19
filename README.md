@@ -6,13 +6,10 @@
 
 **`Digital And Analogue Craftsman(Developer/Data Analyst)`**
 
-I'm an independent ,self-Taught coder and data analyst.I understand the beauty that code imparts  to our day to day lives .Seeing the real actionable  impact as well as  the real problem solving skill that it takes to be a great software developer is what got me into coding and Data analysis .Currently I'm focusing on telling impactful and insightful stories through Data, that will incite action for all those who have the power to make decsions.
+I'm an independent ,self-Taught coder and data analyst.
+I post my progress on GitHub and all I want to give the world other than useful stories and beautiful  ,purposeful code is a GitHug.
 
-I post my progress on GitHub and all I want to give to the world other than useful stories and beautiful ,purposeful code is a GitHug.
 ---
-
-
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -57,6 +54,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
  
  <summary><h3>👨‍💻 Rosh's Coding Journey(so far🌠)</h3></summary ⛰️ 🏃‍♂️ 🚶
          
-  I started my coding journey as a naive 3rd year Graduate  ,who decided to tinker with c++ code,as a challenge to see if it was possible for me to make real world applications .And 1 year later ,I'm still here,Typing , retyping , coding , compiling , debugging and finally running code.I know I'm not perfect , but I love solving problems and challenges.My first one will not be my last one 
+  I started my coding journey as a naive 3rd year Graduate  ,who decided to tinker with c++ code,as a challenge to see if it was possible for me to make real world applications .And 1 year later ,I'm still here,Typing , retyping , coding , compiling , debugging and finally running code.I understand the beauty that code imparts  to our day to day lives .Seeing the real actionable  impact as well as  the real problem solving skill that it takes to be a great software developer is what got me into coding and Data analysis .Currently I'm focusing on telling impactful and insightful stories through Data, that will incite action for all those who have the power to make decsions.
+I a'int perfect  ,but I love solving problems and challenges.My first one will not be my last one 
            
 [website]: Still being polished
