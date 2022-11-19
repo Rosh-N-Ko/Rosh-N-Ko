@@ -1,13 +1,17 @@
+
+
 # 🌊Rosh-N-Ko🤖 
+
+<img align="right" alt="Java" width="175px" style="padding-right:10px;" src="https://imgs.search.brave.com/V8EpJd4698JgJ1cS1bl7LsX0r3KTC5elwIx2WTP4WXA/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQxLzdl/L2JlLzQxN2ViZWU5/ODZhZWM0MTYyOTI3/OGIxZTA0Y2ZiZmU5/LmdpZg.gif"/>
 
 **`Digital And Analogue Craftsman(Developer/Data Analyst)`**
 
-I'm an independent ,self-Taught coder and data analyst.I understand the beauty that code imparts  to our day to day lives .Seeing the real actionable  impact as well as  the real problem solving skill that it takes to be a great software developer is what got me into coding and Data analysis .My initial coding projects were guided , but I slowly learnt to build up the courage and skill  to tackle real life problems.Currently I'm focusing on telling impactful and insightful stories through Data, that will incite action for all those who have the power to make decsions.
-In my spare time 
+I'm an independent ,self-Taught coder and data analyst.I understand the beauty that code imparts  to our day to day lives .Seeing the real actionable  impact as well as  the real problem solving skill that it takes to be a great software developer is what got me into coding and Data analysis .Currently I'm focusing on telling impactful and insightful stories through Data, that will incite action for all those who have the power to make decsions.
+
 I post my progress on GitHub and all I want to give to the world other than useful stories and beautiful ,purposeful code is a GitHug.
-
-
 ---
+
+
 
 ### 🧰 Languages and Tools
 
@@ -31,13 +35,26 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Heroku" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"/>
 
 #
 
-###
+---
+
+
+
+####
+
+
+
+![Rosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosh-N-Ko&theme=dark&show_icons=true)
 
 
 <details>
+
+ 
+ 
+ 
  <summary><h3>👨‍💻 Rosh's Coding Journey(so far🌠)</h3></summary ⛰️ 🏃‍♂️ 🚶
          
   I started my coding journey as a naive 3rd year Graduate  ,who decided to tinker with c++ code,as a challenge to see if it was possible for me to make real world applications .And 1 year later ,I'm still here,Typing , retyping , coding , compiling , debugging and finally running code.I know I'm not perfect , but I love solving problems and challenges.My first one will not be my last one 
