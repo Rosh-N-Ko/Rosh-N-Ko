@@ -44,7 +44,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosh-N-Ko&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats" />
 
 
-<img align="right" alt="Java" width="250px" style="padding-right:0px;" src="https://imgs.search.brave.com/V8EpJd4698JgJ1cS1bl7LsX0r3KTC5elwIx2WTP4WXA/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQxLzdl/L2JlLzQxN2ViZWU5/ODZhZWM0MTYyOTI3/OGIxZTA0Y2ZiZmU5/LmdpZg.gif"/>
 
 <img align="right" alt="Java" width="250px" style="padding-right:0px;" src="https://imgs.search.brave.com/fSAUaCV1MacICWkzCf1IfqCNjkGQX_uX85L-0b-D140/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvNDY0OTQ2NC9z/a2F0dGVyLXByb2dy/YW1tZXIuZ2lm.gif"/>
 
