@@ -2,8 +2,6 @@
 
 # 🌊Rosh-N-Ko🤖 
 
-<img align="right" alt="Java" width="175px" style="padding-right:10px;" src="https://imgs.search.brave.com/V8EpJd4698JgJ1cS1bl7LsX0r3KTC5elwIx2WTP4WXA/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQxLzdl/L2JlLzQxN2ViZWU5/ODZhZWM0MTYyOTI3/OGIxZTA0Y2ZiZmU5/LmdpZg.gif"/>
-
 **`Digital And Analogue Craftsman(Developer/Data Analyst)`**
 
 I'm an independent ,self-Taught coder and data analyst.
@@ -45,6 +43,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 
 ![Rosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosh-N-Ko&theme=dark&show_icons=true)
+
+<img align="right" alt="Java" width="250px" style="padding-right:0px;" src="https://imgs.search.brave.com/V8EpJd4698JgJ1cS1bl7LsX0r3KTC5elwIx2WTP4WXA/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzQxLzdl/L2JlLzQxN2ViZWU5/ODZhZWM0MTYyOTI3/OGIxZTA0Y2ZiZmU5/LmdpZg.gif"/>
+
 
 
 <details>
