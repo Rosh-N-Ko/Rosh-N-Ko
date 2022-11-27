@@ -45,7 +45,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 
 
-<img align="right" alt="Java" width="250px" style="padding-right:0px;" src="https://imgs.search.brave.com/fSAUaCV1MacICWkzCf1IfqCNjkGQX_uX85L-0b-D140/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvNDY0OTQ2NC9z/a2F0dGVyLXByb2dy/YW1tZXIuZ2lm.gif"/>
+<img align="right" alt="Java" width="25px" style="padding-right:0px;" src="https://imgs.search.brave.com/fSAUaCV1MacICWkzCf1IfqCNjkGQX_uX85L-0b-D140/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExNjIw/Nzcvc2NyZWVuc2hv/dHMvNDY0OTQ2NC9z/a2F0dGVyLXByb2dy/YW1tZXIuZ2lm.gif"/>
 
 
 <details>
