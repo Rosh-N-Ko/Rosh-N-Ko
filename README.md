@@ -45,7 +45,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.s
 
 
 
-<img align="right" alt="Java" width="25px" style="padding-right:0px;" src="417ebee986aec41629278b1e04cfbfe9.gif"/>
+<img align="right" alt="Java" width="250px" style="padding-right:0px;" src="417ebee986aec41629278b1e04cfbfe9.gif"/>
 
 
 <details>
