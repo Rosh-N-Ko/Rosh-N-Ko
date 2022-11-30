@@ -3,9 +3,8 @@
 # 🌊Rosh-N-Ko🤖 
 **`Digital And Analogue Craftsman(Developer/Data Analyst)`**
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&duration=3500&pause=500&vCenter=true&width=435&lines=Hello!+I'm+Rosh;I'm+a+determined+data+analyst;Accurate+data+is+the+new+gold;Let's+have+some+fun+with+it;Thanks+for+visiting+my+GitHub+page)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&duration=5006&pause=1499&center=true&width=435&lines=Hello!+I'm+Rosh;I'm+a+self-Taught+data+analyst+and+programmer;Thanks+for+visiting+my+GitHub+page)](https://git.io/typing-svg)
----
 I post my progress on GitHub and all I want to give the world other than useful stories and beautiful  ,purposeful code is a GitHug.
 
 ---
