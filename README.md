@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&duration=3500&pause=500&vCenter=true&width=435&lines=Hello!+I'm+Rosh;I'm+a+determined+data+analyst;Accurate+data+is+the+new+gold;Let's+have+some+fun+with+it;Thanks+for+visiting+my+GitHub+page)](https://git.io/typing-svg)
 
-I post my progress on GitHub and all I want to give the world is useful stories and beautiful  ,purposeful code ---
+I post my progress on GitHub and all I want to give the world is useful stories and beautiful  ,purposeful code 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
