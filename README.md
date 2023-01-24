@@ -55,8 +55,9 @@ ___
  
  <summary><h3>👨‍💻 Rosh's Coding Journey(so far🌠)</h3></summary ⛰️ 🏃‍♂️ 🚶
          
-  I started my coding journey as a naive student  ,who decided to tinker with c++ code,as a challenge to see if it was possible for me to make real world applications .And 1 year later ,I'm still here,Typing , retyping , coding , compiling , debugging and finally running code.I understand the beauty that code imparts  to our day to day lives .Seeing the real actionable  impact as well as  the real problem solving skill that it takes to be a great software developer is what got me into coding and Data analysis .Currently I'm focusing on telling impactful and insightful stories through Data, that will incite action for all those who have the power to make decsions.
+  I started my coding journey as a naive student  ,who decided to tinker with c++ code,as a challenge to see if it was possible for me to make real world applications .And 1 year later ,I'm still here,Typing , retyping , coding , compiling , debugging and finally running code.The real problem solving skill that it takes to be a great software developer is what got me into coding and Data analysis .Currently I'm focusing on telling impactful and insightful stories through Data, that will incite action .
+   
 I'm not perfect  ,but I love solving problems and challenges.My first attempt will never be my last one. 
-Thanks foŕyour time.
+Thanks for your time.
 
  
