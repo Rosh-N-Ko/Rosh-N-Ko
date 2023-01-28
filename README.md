@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&duration=3500&pause=500&vCenter=true&width=435&lines=Hello!+I'm+Rosh;I'm+a+determined+data+analyst;Accurate+data+is+the+new+gold;Let's+have+some+fun+with+it;Thanks+for+visiting+my+GitHub+page)](https://git.io/typing-svg)
 
-I post my progress on GitHub and all I want to give the world is useful stories and beautiful  ,purposeful code 
+I post my progress on GitHub and all I want to give the world is useful stories and beautiful ,purposeful code 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
@@ -58,6 +58,6 @@ ___
   I started my coding journey as a naive student  ,who decided to tinker with c++ code,as a challenge to see if it was possible for me to make real world applications .And 1 year later ,I'm still here,Typing , retyping , coding , compiling , debugging and finally running code.The real problem solving skill that it takes to be a great software developer is what got me into coding and Data analysis .Currently I'm focusing on telling impactful and insightful stories through Data, that will incite action .
    
 I'm not perfect  ,but I love solving problems and challenges.My first attempt will never be my last one. 
-Thanks for your time.
+Thank you for your time.
 
  
