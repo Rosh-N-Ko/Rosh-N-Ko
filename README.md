@@ -45,7 +45,7 @@ ___
 
 
 
-<img align="right" alt="Java" width="250px" style="padding-right:0px;" src="417ebee986aec41629278b1e04cfbfe9.gif"/>
+<img align="centre" alt="Java" width="250px" style="padding-right:0px;" src="417ebee986aec41629278b1e04cfbfe9.gif"/>
 
 
 <details>
