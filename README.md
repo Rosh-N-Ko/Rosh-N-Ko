@@ -1,7 +1,7 @@
 
 
-# 🌊Rosh-N-Ko🤖 
-**`Digital And Analogue Craftsman(Developer/Data Analyst)`**
+# 🌊Rosh-N-Ko 
+**`(Developer/Data Analyst)`**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=28&duration=3500&pause=500&vCenter=true&width=435&lines=Hello!+I'm+Rosh;I'm+a+determined+data+analyst;Accurate+data+is+the+new+gold;Let's+have+some+fun+with+it;Thanks+for+visiting+my+GitHub+page)](https://git.io/typing-svg)
 
